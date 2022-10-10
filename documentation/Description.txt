@@ -1,0 +1,8 @@
+Starbucks Landing Page Website
+
+Program Language : HTML5, CSS3 Flexbox, Javascript DOM
+Code Editor	 : Visual Studio 2020
+Font Face	 : Sans-Serif
+Image Source	 : freepngimg (starbucks)
+Music By	 : -
+Category	 : Front-End
